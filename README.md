@@ -30,5 +30,6 @@ https://stackoverflow.com/questions/6312993/javascript-seconds-to-time-string-wi
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString
 
-##Picture:
-(unable to process file)
+## Picture:
+
+trivia game pic.PNG
