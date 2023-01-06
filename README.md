@@ -32,4 +32,4 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 ## Picture:
 
-![game screenshot](https://github.com/igurgoze/Trivia-Game-IanGurgoze/blob/main/trivia game pic.PNG?raw=true)
+![gamescreenshot](/triviagamepic.PNG)
