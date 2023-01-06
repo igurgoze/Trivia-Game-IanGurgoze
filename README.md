@@ -15,4 +15,4 @@ WHEN the game is over
 THEN I can save my initials and score
 
 
-Link: 
+Link: https://igurgoze.github.io/Trivia-Game-IanGurgoze/
